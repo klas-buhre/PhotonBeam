@@ -1,0 +1,8 @@
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+int main(int argc, char *argv[]) {
+    int retVal = UIApplicationMain(argc, argv, nil, @"AppDelegate");
+    return retVal;
+}
