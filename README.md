@@ -11,6 +11,7 @@ The only supported target platform is currently iOS.
 * GUI framework (views, buttons, scroll panels, fonts).
 * Audio system for sound effects and music (OpenAL).
 
-
-
-
+## Screenshots
+!(screenshot1.png)
+!(screenshot2.png)
+!(screenshot3.png)
