@@ -12,7 +12,7 @@ The only supported target platform is currently iOS.
 * Audio system for sound effects and music (OpenAL).
 
 ## Screenshots
-These screenshots are from the game called RowBlast that I have created using the PhotonBeam engine.
+These screenshots are from the game called Row Blast that I have created using the PhotonBeam engine.
 
 ![](screenshot4.png)
 ![](screenshot5.png)
