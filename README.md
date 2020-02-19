@@ -14,6 +14,8 @@ The only supported target platform is currently iOS.
 ## Screenshots
 These screenshots are from the game called RowBlast that I have created using the PhotonBeam engine.
 
+![](screenshot4.png)
+![](screenshot5.png)
 ![](screenshot0.png)
 ![](screenshot1.png)
 ![](screenshot2.png)
